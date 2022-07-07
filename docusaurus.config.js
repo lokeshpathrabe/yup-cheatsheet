@@ -9,7 +9,7 @@ const config = {
   title: 'Yup-Cheatsheet',
   tagline: 'yup cheatsheet',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/yup-cheatsheet/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
