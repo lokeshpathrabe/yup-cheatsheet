@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[963],{4858:function(e){e.exports=JSON.parse('{"label":"hello","permalink":"/yup-cheatsheet/blog/tags/hello","allTagsPath":"/yup-cheatsheet/blog/tags","count":2}')}}]);
