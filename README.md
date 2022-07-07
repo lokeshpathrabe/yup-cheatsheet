@@ -1,6 +1,9 @@
-# Website
+# Yup-Cheatsheet
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Covers some validation tricks that are not easy to find on Yup  official documentaion.
+The code samples used in examples are available in [codesandbox](https://codesandbox.io/s/yup-cheatsheet-0gs5ou?file=/index.js)
+
+Contributions are welcome !!
 
 ### Installation
 
